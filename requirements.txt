@@ -1,0 +1,11 @@
+PyPDF2
+langchain
+torch
+numpy
+huggingface-hub
+huggingface
+python-dotenv
+faiss-cpu
+InstructorEmbedding
+transformers
+sentence_transformers
